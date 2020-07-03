@@ -6,7 +6,7 @@
 I am a Software Engineer living in Stockholm, Sweden.
 
 - 🔭 I’m currently working on financial happiness at [tink](https://tink.com).
-- 💸 My team owns Payments, we make sure that your money flies   
+- 💸 My team owns Payments: We make sure that your money flies.
 
 <!--
 **seckin206/seckin206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
