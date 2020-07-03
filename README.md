@@ -1,6 +1,6 @@
 ### Hi there, I am Seçkin 👋
 
-![linkedin badge](https://img.shields.io/badge/linkedin-Seçkin_Savaşçı-0077b5?style=flat-square&link=https://www.linkedin.com/in/savasci&logo=linkedin)
+[![linkedin badge](https://img.shields.io/badge/linkedin-Seçkin_Savaşçı-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/savasci)
 ![website badge](https://img.shields.io/badge/website-savasci.org-yellow?style=flat-square&link=https://savasci.org)
 ![twitter badge](https://img.shields.io/badge/twitter-@seckin206-1da1f2?style=flat-square&link=https://twitter.com/seckin206&logo=twitter)
 
