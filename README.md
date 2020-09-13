@@ -5,10 +5,10 @@
 [![twitter badge](https://img.shields.io/badge/twitter-@seckin206-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/seckin206)
 
 
-I am a Software Engineer living in Stockholm, Sweden.
+I am a software engineer living in Stockholm, Sweden.
 
 - 🔭  I’m currently working on financial happiness at [tink](https://tink.com).
 - 💸  My team owns payments products at Tink: We make sure that your money flies.
-- 🔥  Distributed Systems 🔥
-- 🔥  Behavioral Software Engineering 🔥
+- 🔥  Distributed systems 🔥
+- 🔥  Behavioral software engineering 🔥
 - 🔥  Legacy codebases 🔥
