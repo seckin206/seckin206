@@ -11,3 +11,4 @@ I am a Software Engineer living in Stockholm, Sweden.
 - 💸  My team owns payments products at Tink: We make sure that your money flies.
 - 🔥  Distributed Systems 🔥
 - 🔥  Behavioral Software Engineering 🔥
+- 🔥  Legacy codebases 🔥
