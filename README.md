@@ -9,6 +9,6 @@ I am a software engineer living in Stockholm, Sweden.
 
 - 🔭  I’m currently working on financial happiness at [tink](https://tink.com).
 - 💸  My team owns payments products at Tink: We make sure that your money flies.
-- 🔥  Distributed systems 🔥
-- 🔥  Behavioral software engineering 🔥
-- ❤️  Legacy codebases ❤️
+- 🔥  Distributed systems
+- 🔥  Behavioral software engineering
+- ❤️  Legacy codebases
