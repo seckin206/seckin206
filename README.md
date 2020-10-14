@@ -13,3 +13,4 @@ I am a software engineer living in Stockholm, Sweden.
 - 🔥  Behavioral software engineering
 - ❤️  Legacy codebases
 - ❤️  Ship to learn
+- 💚  bazel
