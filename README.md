@@ -7,8 +7,7 @@
 
 I am a software engineer living in Stockholm, Sweden.
 
-- 🔭  I’m currently working on financial happiness at [tink](https://tink.com).
-- 💸  My team owns payments products at Tink: We make sure that your money flies.
+- 🔭  I’m currently working on player restrictions and resumption at [Spotify](https://spotify.com).
 - 🔥  Distributed systems
 - 🔥  Behavioral software engineering
 - ❤️  Legacy codebases
