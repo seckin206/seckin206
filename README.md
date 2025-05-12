@@ -7,7 +7,7 @@
 
 I am a software engineer living in Stockholm, Sweden.
 
-- 🔭  I’m currently working on player restrictions and resumption at [Spotify](https://spotify.com).
+- 🔭  I build and maintain backend systems of Resumption Platform at [Spotify](https://spotify.com).
 - 🔥  Distributed systems
 - 🔥  Behavioral software engineering
 - ❤️  Legacy codebases
